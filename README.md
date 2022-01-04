@@ -1,6 +1,6 @@
 # Hi, I'm Olivia 👋
 
-### I'm a full stack software engineer based in 📍San Francisco, CA.
+### I'm a full-stack software engineer based in 📍San Francisco, CA.
 
 📚I'm currently teaching JavaScript fundamentals to career-transitioners and helping them build autonomy for their software engineering careers.
 
